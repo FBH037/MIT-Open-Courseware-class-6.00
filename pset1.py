@@ -93,25 +93,6 @@ print 'ratio', (sumlog/oddintiger)
 
 
 
-#TRASH?
-while (oddintiger<n):
-	if (oddintiger/2)*2 == oddintiger:
-		oddintiger = oddintiger + 1	
-	else: 
-		while (divisee < oddintiger):
-			if ((oddintiger%(oddintiger - divisee))>0):
-				divisee = divisee + 1
-#			print (oddintiger)
-			else: 
-				sumlog = sumlog + (log(oddintiger))
-				oddintiger = oddintiger + 1
-				numberprime = numberprime + 1
-				print 'sumlog', sumlog
-#		print (oddintiger)
-	pass		
-print (sumlog/
-
-	
 
 
 
